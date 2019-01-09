@@ -10,33 +10,32 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 ## Languages
 
-| Name             | Code |
-| ---------------- | ---- |
-| [Arabic](ar)     | ar   |
-| [Chinese](zh)    | zh   |
-| [Czech](cs)      | cs   |
-| [Danish](da)     | da   |
-| [Dutch](nl)      | nl   |
-| [English](en)    | en   |
-| [Esperanto](eo)  | eo   |
-| [Finnish](fi)    | fi   |
-| [French](fr)     | fr   |
-| [German](de)     | de   |
-| [Hindi](hi)      | hi   |
-| [Hungarian](hu)  | hu   |
-| [Italian](it)    | it   |
-| [Japanese](ja)   | ja   |
-| [Klingon](tlh)   | tlh  |
-| [Korean](ko)     | ko   |
-| [Norwegian](no)  | no   |
-| [Persian](fa)    | fa   |
-| [Polish](pl)     | pl   |
-| [Portuguese](pt) | pt   |
-| [Russian](ru)    | ru   |
-| [Spanish](es)    | es   |
-| [Swedish](sv)    | sv   |
-| [Thai](th)       | th   |
-| [Turkish](tr)    | tr   |
+| Name                         | Code |
+| ---------------------------- | ---- |
+| [Arabic](language/ar.js)     | ar   |
+| [Chinese](language/zh.js)    | zh   |
+| [Czech](language/cs.js)      | cs   |
+| [Danish](language/da.js)     | da   |
+| [Dutch](language/nl.js)      | nl   |
+| [English](language/en.js)    | en   |
+| [Esperanto](language/eo.js)  | eo   |
+| [Finnish](language/fi.js)    | fi   |
+| [French](language/fr.js)     | fr   |
+| [German](language/de.js)     | de   |
+| [Hindi](language/hi.js)      | hi   |
+| [Hungarian](language/hu.js)  | hu   |
+| [Italian](language/it.js)    | it   |
+| [Japanese](language/ja.js)   | ja   |
+| [Korean](language/ko.js)     | ko   |
+| [Norwegian](language/no.js)  | no   |
+| [Persian](language/fa.js)    | fa   |
+| [Polish](language/pl.js)     | pl   |
+| [Portuguese](language/pt.js) | pt   |
+| [Russian](language/ru.js)    | ru   |
+| [Spanish](language/es.js)    | es   |
+| [Swedish](language/sv.js)    | sv   |
+| [Thai](language/th.js)       | th   |
+| [Turkish](language/tr.js)    | tr   |
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
