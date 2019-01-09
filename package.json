@@ -1,6 +1,6 @@
 {
   "name": "profanity-filter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
   "main": "index.js",
   "scripts": {

@@ -4,5 +4,5 @@ const wordMatchPattern = /(?:[A-Za-z\xAA\xB5\xBA\xC0-\xD6\xD8-\xF6\xF8-\u02C1\u0
 module.exports = (str, replaceWithCallback, language = 'en') => {
     const profanitySet = require(`./language/${language}`);
 
-    return str.replace(wordMatchPattern, (word) => (profanitySet.has(word) ? replaceWithCallback(word) : word));
+    return str.replace(wordMatchPattern, (word) => (profanitySet.has(word.toLowerCase()) ? replaceWithCallback(word) : word));
 };
